@@ -12,7 +12,7 @@ I'm a young developer (17 y.o.) from Poland that loves programming in general! B
 
 ## Done projects 🔥
 
-In progress...
+In progress... 🕑
 
 ## Hobbies and Interests
 
