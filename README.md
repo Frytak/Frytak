@@ -10,13 +10,12 @@ Obviously I love programming very much, but besides that I like playing games li
 
 ## Currently working on 👾
 
-- Taboolon, a website for converting images into tables.
 - Kaavio, a Rust library that makes graphical representations in terminals way easier.
 - TwoToEleven, a copy of 2048 in the terminal.
 
 ## Done projects 🔥
 
-In progress... 🕑
+- Taboolon, a website for converting images into tables.
 
 ## Contact
 
