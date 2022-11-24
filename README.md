@@ -16,8 +16,3 @@ Obviously I love programming very much, but besides that I like playing games li
 ## Done projects 🔥
 
 - [Taboolon](https://taboolon.netlify.app/), a website for converting images into tables.
-
-## Contact
-
-- Discord: Frytak#7211
-- Email: frytak2855@gmail.com
