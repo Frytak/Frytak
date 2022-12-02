@@ -16,3 +16,4 @@ Obviously I love programming very much, but besides that I like playing games li
 ## Done projects 🔥
 
 - [Taboolon](https://taboolon.netlify.app/), a website for converting images into tables.
+- [Ignacy Lukasiewicz](https://github.com/Gami13/IgnacyLukasiewiczProject), a little school project we had to do.
