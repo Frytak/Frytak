@@ -6,7 +6,7 @@ I'm a young developer (17 y.o.) from Poland that loves programming in general! B
 
 ## Hobbies and Interests
 
-Obviously I love programming very much, but besides that I like playing games like Minecraft, Factorio, BTD6, TBOI, Overwatch 2 and many more. I am learning to play on a flute and in the future I would also love to play on a keyboard or other instruments! I also belong to the furry fandom and my furrsona is a hyena named Kris 🐾
+Obviously I love programming very much, but besides that I like playing games like Minecraft, Factorio, BTD6, TBOI, Overwatch 2 and many more. I am learning to play on a flute and in the future I would also love to play on a keyboard or other instruments!
 
 ## Currently working on 👾
 
