@@ -2,7 +2,7 @@
 
 ## Who am I?
 
-I'm a young developer (17 y.o.) from Poland that loves programming in general! Because of that I am not limiting myself to just one language/framework or even one genre like web development. I am proficient at HTML, CSS, PHP and JavaScript. I am also learning to perfect Rust, all C languages, and React!
+I am a programmer with extensive experience in creating websites. I efficiently use tools such as React, JavaScript, CSS and HTML, being up to date with modern techniques of their use. I gained experience through independent learning and practice in creating business websites and school or personal projects.
 
 ## Hobbies and Interests
 
