@@ -1,17 +1,16 @@
 # Hi! I'm Frytak! 🍟
 
-## Who am I?
+My real name is Peter, I'm currently attending high school but whenever I can I work on my programming projects (as well as some other interesting stuff). Interested in getting a job but not looking actively yet because of school responisbilities. If you'd like to contact me you can write me an email (piotr_niepsuj@outlook.com) or add me on Discord (frytak)! 
 
-I am a programmer with extensive experience in creating websites. I efficiently use tools such as React, JavaScript, CSS and HTML, being up to date with modern techniques of their use. I gained experience through independent learning and practice in creating business websites and school or personal projects.
+## Hobbies and Interests 🧃
 
-## Hobbies and Interests
-
-Obviously I love programming very much, but besides that I like playing games like Minecraft, Factorio, BTD6, TBOI, Overwatch 2 and many more. I am learning to play on a flute and in the future I would also love to play on a keyboard or other instruments!
+Obviously I love programming very much, but besides that I like playing games (Minecraft, Factorio, BTD6, TBOI) and many more. I am learning to play on a flute and in the future I would also love to play on other instruments!
 
 ## Currently working on 👾
 
-- Kaavio, a Rust library that makes graphical representations in terminals way easier.
-- TwoToEleven, a copy of 2048 in the terminal.
+- Kaavio, a Rust library for making TUIs.
+- GShop, an app for our schools little shop allowing to make orders which will reduce waiting time and more!
+- TwoToEleven, a copy of 2048 in the terminal (I'll make it after completing Kaavio to take it for a test drive).
 
 ## Done projects 🔥
 
